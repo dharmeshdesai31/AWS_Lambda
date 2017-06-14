@@ -1,1 +1,1 @@
-AWS Lambda project created using servlet.
+Servlet project for AWS lambda.
