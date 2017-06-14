@@ -1,2 +1,1 @@
-# github
-\n## Description\n\nGitHub for dummies
+AWS Lambda project created using servlet.
