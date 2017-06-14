@@ -1,0 +1,4 @@
+com\aws\lambda\servlet\RequestObject.class
+com\aws\lambda\servlet\LambdaFunction.class
+com\aws\lambda\servlet\ResponseObject.class
+com\aws\lambda\servlet\Address.class
